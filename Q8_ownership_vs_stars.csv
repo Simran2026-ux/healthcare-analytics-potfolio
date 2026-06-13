@@ -1,0 +1,12 @@
+hospital_ownership,avg_star_rating,hospital_count,five_star_count,five_star_pct
+"Veterans Health Administration",4.16,112,50,44.6
+Tribal,4.00,2,1,50.0
+Physician,3.58,19,5,26.3
+"Voluntary non-profit - Church",3.37,222,23,10.4
+"Voluntary non-profit - Private",3.31,1611,212,13.2
+"Voluntary non-profit - Other",3.29,252,36,14.3
+"Government - Local",2.92,181,11,6.1
+"Government - Hospital District or Authority",2.91,230,16,7.0
+"Government - State",2.89,37,4,10.8
+"Government - Federal",2.83,12,0,0.0
+Proprietary,2.80,504,26,5.2

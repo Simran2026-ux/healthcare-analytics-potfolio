@@ -1,0 +1,9 @@
+hcahps_question,avg_score,hospital_count
+"Nurse communication - linear mean score",91.24,3176
+"Doctor communication - linear mean score",90.67,3176
+"Overall hospital rating - linear mean score",87.88,3176
+"Recommend hospital - linear mean score",86.96,3176
+"Cleanliness - linear mean score",86.56,3176
+"Discharge information - linear mean score",85.66,3176
+"Quietness - linear mean score",81.46,3176
+"Communication about medicines - linear mean score",76.71,3176
